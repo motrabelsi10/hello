@@ -34,11 +34,27 @@
     }],
     "className": "org.joget.apps.form.model.Form",
     "properties": {
-        "loadBinder": {"className": "org.joget.apps.form.lib.WorkflowFormBinder"},
-        "name": "a",
+        "noPermissionMessage": "",
+        "loadBinder": {
+            "className": "org.joget.apps.form.lib.WorkflowFormBinder",
+            "properties": {}
+        },
+        "name": "ab",
         "description": "",
+        "postProcessorRunOn": "create",
+        "permission": {
+            "className": "",
+            "properties": {}
+        },
         "id": "a",
-        "storeBinder": {"className": "org.joget.apps.form.lib.WorkflowFormBinder"},
+        "postProcessor": {
+            "className": "",
+            "properties": {}
+        },
+        "storeBinder": {
+            "className": "org.joget.apps.form.lib.WorkflowFormBinder",
+            "properties": {}
+        },
         "tableName": "a"
     }
 }
