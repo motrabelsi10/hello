@@ -1,0 +1,14 @@
+<appDefinition>
+   <id>hello</id>
+   <version></version>
+   <name>hello</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+</appDefinition>
